@@ -29,21 +29,12 @@ import Footer from "../Components/Footer";
 import Home from "./Home/Home";
 import Req from "./Signin/Req";
 
-
-
-
-
 const Allroutes = () => {
   return (
     <>
 
-      <Navbar />
-
-
-     
-
       <Routes>
-        <Route path="/" element={<Home/>}></Route>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/feature" element={<Feature />}></Route>
         <Route path="/pricing" element={<Pricing />}></Route>
         <Route path="/integration" element={<Integration />}></Route>
@@ -72,8 +63,6 @@ const Allroutes = () => {
         <Route path="/timesheet/clients" element={<Clients />}></Route>
         <Route path="/timesheet/invoices" element={<Invoices />}></Route>
       </Routes>
-
-      <Footer />
 
     </>
   );
