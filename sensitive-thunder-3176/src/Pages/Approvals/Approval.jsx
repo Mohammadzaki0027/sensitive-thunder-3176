@@ -65,7 +65,7 @@ const handleApproved=()=>{
         <Td>{task.curDate}</Td>
         <Td>2m</Td>
         <Td>{task.name}</Td>
-        <Td><Button color={'white'} bgColor={approved?"green.400":"orange.300"} onClick={handleApproved}>Pending Approval</Button></Td>
+        <Td><Button color={'white'} bgColor={approved?"green.400":"orange.300"} onClick={handleApproved}>{approved?"Approved":"Pending Approval"}</Button></Td>
         <Td>eve.holt@reqres.in</Td>
       </Tr>
       )

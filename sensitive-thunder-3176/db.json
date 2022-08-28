@@ -1,23 +1,35 @@
 {
   "tasks": [
     {
-      "name": "date added",
-      "note": "add",
-      "curDate": "August 27, 2022",
-      "id": 1
+      "name": "project week",
+      "note": "team ",
+      "curDate": "August 28, 2022",
+      "id": 5
     },
     {
-      "name": "taks2",
-      "note": "222",
-      "curDate": "August 27, 2022",
-      "id": 2
+      "name": "project presentation",
+      "note": "day 6",
+      "curDate": "August 28, 2022",
+      "id": 6
+    },
+    {
+      "name": "construct week ",
+      "note": "masai school",
+      "curDate": "August 28, 2022",
+      "id": 8
+    },
+    {
+      "name": "",
+      "note": "",
+      "tag": "",
+      "id": 9
     }
   ],
   "user": [
     {
       "group_id": "1234",
       "user_id": "1231456",
-      "email": "mr@smith.com",
+      "email": "mrZaki@smith.com",
       "login_count": "1402",
       "login_time": "2020-12-21 17:15:22",
       "display_name": "Agent Smith",
@@ -26,7 +38,7 @@
     {
       "group_id": "1234",
       "user_id": "1235213",
-      "email": "mrs@smith.com",
+      "email": "msHarsha@smith.com",
       "login_count": "22084",
       "login_time": "2021-03-11 10:21:15",
       "display_name": "Jan Kowalski",
@@ -35,7 +47,16 @@
     {
       "group_id": "1234",
       "user_id": "5123213",
-      "email": "some@example.com",
+      "email": "someShubham@example.com",
+      "login_count": "1775",
+      "login_time": "2020-12-21 13:43:12",
+      "display_name": "Example Name",
+      "synch_time": "2020-12-21 14:00:45"
+    },
+    {
+      "group_id": "1234",
+      "user_id": "5123213",
+      "email": "rajendra@example.com",
       "login_count": "1775",
       "login_time": "2020-12-21 13:43:12",
       "display_name": "Example Name",
@@ -44,20 +65,20 @@
   ],
   "tags": [
     {
-      "name": "tag5",
-      "id": 2
-    },
-    {
-      "name": "tag3",
-      "id": 3
-    },
-    {
       "name": "tag4",
       "id": 4
     },
     {
-      "name": "tag2",
-      "id": 5
+      "name": "personal",
+      "id": 7
+    },
+    {
+      "name": "personal",
+      "id": 8
+    },
+    {
+      "name": "family",
+      "id": 10
     }
   ]
 }
