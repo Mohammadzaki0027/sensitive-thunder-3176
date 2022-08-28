@@ -19,7 +19,7 @@ function User() {
     console.log(user)
   return (
     <div>
-        <Box marginTop={140}>
+        <Box marginTop={150}>
             <Box w="95%" h="50px" backgroundColor="#d9e9fe" justifyContent={"center"} borderRadius="10px" paddingTop={1}>
                <Flex> <FiUserPlus   className={styles.user}/> <Text marginTop="auto"color="#88a9f9" marginLeft="10px" >You can now invite guests like clients, vendors, or contractors. You can add them free of charge</Text>
                <a href="" target="_blank" style={{marginLeft:"2px",color:"#88a9f9" ,fontWeight:"700",textDecoration: "underline",marginTop:"auto"}}>.Invite Guest</a></Flex>

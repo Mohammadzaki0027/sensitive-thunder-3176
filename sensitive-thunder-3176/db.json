@@ -70,15 +70,15 @@
     },
     {
       "name": "personal",
-      "id": 7
-    },
-    {
-      "name": "personal",
       "id": 8
     },
     {
       "name": "family",
       "id": 10
+    },
+    {
+      "name": "Official",
+      "id": 12
     }
   ]
 }
