@@ -12,43 +12,43 @@ TimeCamp is a web-based application launched in 2009 by Kamil Rudnicki, a progra
 <hr/>
 <h2>Team Members</h2>
 
+
 <li>
-<ul>
 <a href="https://www.linkedin.com/in/mohammad-zaki-b48821158/">Mohammad Zaki</a>
-</ul>
-<ul>
-<a href="https://www.linkedin.com/in/shubham-verma-78768a157/">Shubham Verma</a>
-</ul>
-<ul>
-<a href="https://www.linkedin.com/in/harshada-jagtap-88334a192/">Harshada Jagtap</a>
-</ul>
-<ul>
-<a href="https://www.linkedin.com/in/rajendra-nali-760762170/">Rajendera Nali</a>
-</ul>
 </li>
+<li>
+<a href="https://www.linkedin.com/in/shubham-verma-78768a157/">Shubham Verma</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/harshada-jagtap-88334a192/">Harshada Jagtap</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/rajendra-nali-760762170/">Rajendera Nali</a>
+</li>
+
 
 <hr/>
 <h2>Tech Stack</h2>
-<li>
-<ul>React JS</ul>
-<ul>Redux</ul>
-<ul>Chakra UI</ul>
-<ul>React-router-dom</ul>
+
+<li>React JS</li>
+<li>Redux</li>
+<li>Chakra UI</li>
+<li>React-router-dom</li>
 
 <hr/>
 
 <h2>Features</h2>
 <li>
-<ul>SignIn with Mobile OTP Authentication</ul>
-<ul>Filters on logos</ul>
-<ul>Responsieness</ul>
-<ul>Task Management</ul>
-<ul>Time Sheet Approval</ul>
-<ul>Users</ul>
-<ul>Computer Time Usage</ul>
-<ul>Reporting Status</ul>
+<li>SignIn with Mobile OTP Authentication</li>
+<li>Filters on logos</li>
+<li>Responsieness</li>
+<li>Task Management</li>
+<li>Time Sheet Approval</li>
+<li>Users</li>
+<li>Computer Time Usage</li>
+<li>Reporting Status</li>
 
-</li>
+
 
 <hr/>
 <h3>Home Page</h3>
@@ -117,7 +117,7 @@ it will reflect on all the user dashboard where everyone can easily manage every
 <hr/>
 <h2>Conclusion</h2>
 <p>
-This is a Construct week project we have to create in  teams where have the oppertunity to learn many things like to communicate, collaborate, time management and and project management, at the end of the every unit this will make us utilise all the new skills we have learnt from the unit and a perfect platform to practice our skills in the differnet work environment where we can utilise our potential of getting things workings together in teams professionally. All the difficulties we faced in this construct week make us much stronger and skillful to improve ourself in every area of a professional web developer.
+This is a Construct week project we have to create in  teams where have the oppertunity to learn many things like to communicate, collaborate, time management and and project management, at the end of the every unit this will make us utilise all the new skills we have learnt from the unit and a perfect platform to practice our skills in the differnet work environment where we can utilise our potential of getting things workings together in teams professionally. All the difficlities we faced in this construct week make us much stronger and skillfli to improve ourself in every area of a professional web developer.
 
 </p>
 <h1>THANK YOU FOR READING</h1>
