@@ -39,7 +39,7 @@ TimeCamp is a web-based application launched in 2009 by Kamil Rudnicki, a progra
 
 <h2>Features</h2>
 
-<li>SignIn with Mobile OTP Authentication</li>
+<li>SignIn Token Authentication</li>
 <li>Filters on logos</li>
 <li>Responsieness</li>
 <li>Task Management</li>
